@@ -2,4 +2,5 @@
 
 Example project for working with remote git repos.
 
-A minor change made by Ania. 
+A minor change made by Ania.
+Change to readme file
