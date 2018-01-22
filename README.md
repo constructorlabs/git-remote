@@ -2,4 +2,4 @@
 
 Example project for working with remote git repos.
 
-Example change made to remote git repo.
+Example change made to remote git repo. More changes made
