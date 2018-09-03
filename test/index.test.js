@@ -11,3 +11,5 @@ test('Multiply', () => {
 
     expect( result ).toEqual( 6 );
 });
+
+console.log("changes");
